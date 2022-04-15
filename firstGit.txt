@@ -3,3 +3,5 @@ Git is a free control system
 my name is liuboqun
 
 try change the git
+
+have a try
