@@ -6,4 +6,4 @@ try change the git
 
 have a try
 
-Creating a new branch is quick
+Creating a new branch is quick & simple
